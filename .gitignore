@@ -3,3 +3,5 @@ lfw
 .ipynb_checkpoints
 proposal.zip
 dog_images
+models
+debug.log
